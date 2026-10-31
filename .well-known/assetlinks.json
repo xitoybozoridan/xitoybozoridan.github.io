@@ -5,4 +5,12 @@
     "package_name": "io.github.xitoybozoridan.twa",
     "sha256_cert_fingerprints": ["EC:EB:CA:AA:F2:13:D1:17:26:62:C6:F3:8C:56:3E:E1:E1:06:F9:8D:45:97:4A:F5:BB:0C:FA:15:31:9E:4D:24"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.xitoybozoridan.admin",
+    "sha256_cert_fingerprints": ["14:48:C4:8B:62:F2:67:E4:71:C9:73:8C:CF:51:2C:E9:74:C6:90:EA:C7:08:BA:C2:7C:6C:3D:AA:32:DE:13:AA"]
+  }
 }]
